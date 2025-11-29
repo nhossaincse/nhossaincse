@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nhossaincse
-- 👀 I’m interested in C#.NET, IoT, Angular, Scrum
+- 💞️ I’m interested in C#.NET, IoT, Angular, Scrum
 - 🌱 I’m currently learning High Availability with DevOps
-- 💞️ I’m looking to collaborate on Tech Solutioins
+- 👀 I’m looking to collaborate on Tech Solutioins
 - 📫 How to reach me: email on nhossaincse@gmail.com 
 
 <!---
