@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nhossaincse
+- 👋 Hi, I’m Nazmul Hossain [@nhossaincse]
 - 💞️ I’m interested in C#.NET, Python, AI/ML, IoT, React, Angular, Scrum
 - 🌱 I’m currently learning High Availability with DevOps
 - 👀 I’m looking to collaborate on Tech Solutioins
